@@ -6,4 +6,4 @@
 
 my certificate of completion: <a href="https://www.coursera.org/account/accomplishments/verify/EWWK36ZPJ87G?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"> link </a>
 <br>providing the <a href="https://www.coursera.org/learn/visual-perception-self-driving-cars?specialization=self-driving-cars"> link </a> for the course 
-keep motivated and keep learning. All the best :D
+<br>keep motivated and keep learning. All the best :D
