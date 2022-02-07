@@ -1,7 +1,7 @@
-1.Use the output of semantic segmentation neural networks to implement drivable space estimation in 3D.
-2.Use the output of semantic segmentation neural networks to implement lane estimation.
-3.Use the output of semantic segmentation to filter errors in the output of 2D object detectors.
-4.Use the filtered 2D object detection results to determine how far obstacles are from the self-driving car.
+1.Use the output of semantic segmentation neural networks to implement drivable space estimation in 3D.<br>
+2.Use the output of semantic segmentation neural networks to implement lane estimation.<br>
+3.Use the output of semantic segmentation to filter errors in the output of 2D object detectors.<br>
+4.Use the filtered 2D object detection results to determine how far obstacles are from the self-driving car.<br>
 
 • To look how everything has been implemented, please refer to the Project folder.
 
