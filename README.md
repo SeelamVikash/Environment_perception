@@ -1,6 +1,7 @@
-• Extracting features from the photographs using feature descriptor. The extracted features were used to find matches between features in different photographs using brute force matching.
-
-• Used the found matches to estimate the camera motion between successive photographs, built the vehicle trajectory using the estimated camera motion.
+1.Use the output of semantic segmentation neural networks to implement drivable space estimation in 3D.
+2.Use the output of semantic segmentation neural networks to implement lane estimation.
+3.Use the output of semantic segmentation to filter errors in the output of 2D object detectors.
+4.Use the filtered 2D object detection results to determine how far obstacles are from the self-driving car.
 
 • To look how everything has been implemented, please refer to the Project folder.
 
